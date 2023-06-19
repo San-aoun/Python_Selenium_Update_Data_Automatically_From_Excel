@@ -18,7 +18,7 @@ Python 3.11.1
 pip 23.1.2
 
 1. Cloning the repository:
-    git clone hgit@github.com:centraldigital/testrail_add_reference_ticket.git
+    git clone ....
 
 2. Installing all the dependencies:
     2.1 cd path/to/testrail_add_reference_ticket
